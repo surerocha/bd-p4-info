@@ -8,7 +8,7 @@
 
 * Data de Entrega: 25/08/2023
 
-* Defina os seguintes conceitos centrais da abordagem Entidade Relacionamento (ER):
+*Defina os seguintes conceitos centrais da abordagem Entidade Relacionamento (ER):
 1) Entidade;
 2) Relacionamento;
 3) Atributo;
