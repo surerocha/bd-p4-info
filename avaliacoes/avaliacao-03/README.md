@@ -17,6 +17,6 @@ e) Generalização/especialização;
 f) Entidade Associativa;
 g) Cardinalidade de um Atributo;*
 
-[banco.de.dados.avaliacao02.pdf]()
+[bd.avaliacao03.pdf](file:///C:/sure/FuturaDev/bd.avaliacao03.pdf)
 
-HEUSER, Carlos Alberto. Projeto de banco de dados: Volume 4 da Série Livros didáticos informática UFRGS. Bookman Editora, 2009.
+
