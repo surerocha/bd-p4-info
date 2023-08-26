@@ -15,7 +15,7 @@
 4) Domínio de um Atributo;
 5) Generalização/especialização;
 6) Entidade Associativa;
-7) Cardinalidade de um Atributo; *
+7) Cardinalidade de um Atributo;*
 
 [bd.avaliacao03.pdf](https://github.com/surerocha/bd-p4-info/files/12444265/bd.avaliacao03.pdf)
 
