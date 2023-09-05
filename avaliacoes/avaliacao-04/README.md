@@ -12,4 +12,4 @@
 Nele defina as Tabela TB_ALUNO, TB_PROFESSOR, TB_CURSO e TB_DISCIPLINA.
 Exemplifique o uso de comando SQL que executam operações CRUD.*
 
-[Avaliação_04 - BD.pdf](https://github.com/surerocha/bd-p4-info/files/12478704/Avaliacao_04.-.BD.pdf)
+[Avaliação_04 - BD.pdf](https://github.com/surerocha/bd-p4-info/files/12526257/Avaliacao_04.-.BD.pdf)
