@@ -10,4 +10,4 @@
 
   *Desenvolva tabelas que apresentem os seguintes relacionamentos: 1:1, 1:N e N:N.*
 
-[Avaliação_04 - BD.pdf](https://github.com/surerocha/bd-p4-info/files/12526257/Avaliacao_04.-.BD.pdf)
+[Avaliação_05 - BD.pdf](https://github.com/surerocha/bd-p4-info/blob/main/avaliacoes/avaliacao-05/Avalia%C3%A7%C3%A3o05_BancoDeDados.pdf)
