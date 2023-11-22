@@ -2,11 +2,14 @@
 
 *Segue a Avaliação 08 da disciplina Banco de Dados*
 
+ <img alt="bancodedados.jpg"  align="right"  height="270cm" src="https://github.com/thalitaasuzy/bd-info-p4/assets/112733274/873a8d1f-b879-45fb-b6d1-8e1b3dc98ba4" />
+
 * Estudante: Sure Rocha Bezerra 
 
 * Professor: Ricardo Duarte Taveira
 
 * Data de Entrega: 22/11/2023
+
 
 *Criar o esquema (código SQL) que cria as tabelas e os relacionamentos do modelo anexo.*
   
